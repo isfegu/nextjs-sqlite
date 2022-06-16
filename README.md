@@ -2,7 +2,7 @@
 
 Este respositorio contiene un proyecto básico de [Next.js](https://nextjs.org/) con la capacidad de obtener datos de una base de datos [SQLite](https://sqlite.org/).
 
-Puedes leer un apunte con más detalle en [https://isfegu.netlify.app/nextjs-sqlite-ssg-getstaticprops](https://isfegu.netlify.app/nextjs-sqlite-ssg-getstaticprops).
+Puedes leer un apunte con más detalle en [https://anedonia.website/nextjs-sqlite-ssg-getstaticprops/](https://anedonia.website/nextjs-sqlite-ssg-getstaticprops/).
 
 ## Requisitos
 
